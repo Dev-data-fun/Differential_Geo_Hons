@@ -1,0 +1,16 @@
+\contentsline {chapter}{Table of Contents}{v}{section*.1}
+\contentsline {chapter}{List of Figures}{v}{section*.3}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Preliminaries}{2}{chapter.2}
+\contentsline {section}{\numberline {2.1}Linear Algebra}{2}{section.2.1}
+\contentsline {section}{\numberline {2.2}Open and Connected Sets}{2}{section.2.2}
+\contentsline {section}{\numberline {2.3}Regular parametizations and surfaces}{4}{section.2.3}
+\contentsline {chapter}{\numberline {3}The First Fundamental Form}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{9}{section.3.1}
+\contentsline {section}{\numberline {3.2}The First Fundamental Form}{9}{section.3.2}
+\contentsline {section}{\numberline {3.3}The Intrinsic Properties}{10}{section.3.3}
+\contentsline {chapter}{\numberline {4}The Second Fundamental Form}{21}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{21}{section.4.1}
+\contentsline {section}{\numberline {4.2}The Second Fundamental Form}{23}{section.4.2}
+\contentsline {section}{\numberline {4.3}The Extrinsic Properties}{27}{section.4.3}
+\contentsline {chapter}{\numberline {5}Conclusion}{35}{chapter.5}
